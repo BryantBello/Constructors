@@ -1,0 +1,26 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "store owner application",
+  "main": "CatDog.js",
+  "scripts": {
+    "test": "wee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantBello/Constructors.git"
+  },
+  "keywords": [
+    "objects",
+    "javascript"
+  ],
+  "author": "Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantBello/Constructors/issues"
+  },
+  "homepage": "https://github.com/BryantBello/Constructors#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
